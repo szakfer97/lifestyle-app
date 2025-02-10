@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold text-center sm:text-left">
           Welcome to the Lifestyle App
         </h1>
-        <p className="text-lg text-gray-700 max-w-2xl text-center sm:text-left">
+        <p className="text-lg max-w-2xl text-center sm:text-left">
           Track and manage your health and finances all in one place. Whether
           you want to monitor your fitness activities, log your medical history,
           manage your income, or keep track of your expenses, the Lifestyle App

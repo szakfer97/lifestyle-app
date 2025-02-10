@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Header() {
   return (
     <header className="bg-background border-b border-foreground/10">
-      <nav className="container mx-auto p-4 flex gap-4">
+      <nav className="container mx-auto p-4 flex justify-center gap-20">
         <Link href="/" className="text-foreground hover:text-foreground/80">
           Home
         </Link>
