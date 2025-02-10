@@ -1,4 +1,3 @@
-// app/finances/page.tsx
 import Income from "./components/Income";
 import Expenses from "./components/Expenses";
 

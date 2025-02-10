@@ -6,6 +6,9 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <h1 className="text-2xl font-bold">Lifestyle App</h1>
         <nav className="flex gap-4">
+          <Link href="/" className="text-blue-500 hover:underline">
+            Home
+          </Link>
           <Link href="/health" className="text-blue-500 hover:underline">
             Health
           </Link>
